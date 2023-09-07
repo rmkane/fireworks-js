@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #000;
+}
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+#copyright {
+  color: white;
+  font-family: arial;
+  font-size: 12px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+}
